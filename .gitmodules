@@ -1,0 +1,9 @@
+[submodule "ProjectOcto-Frontend-Monitor"]
+	path = ProjectOcto-Frontend-Monitor
+	url = git@github.com:Project-Octo/ProjectOcto-Frontend-Monitor.git
+[submodule "ProjectOcto-App-DiveLog"]
+	path = ProjectOcto-App-DiveLog
+	url = git@github.com:Project-Octo/ProjectOcto-App-DiveLog.git
+[submodule "octo_ai_server_container"]
+	path = octo_ai_server_container
+	url = https://github.com/Project-Octo/octo_ai_server_container
