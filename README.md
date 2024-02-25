@@ -1,6 +1,6 @@
 # Project Octo
 
-![image](https://ibb.co/VSVR48k)
+<a href="https://ibb.co/VSVR48k"><img src="https://i.ibb.co/d2BFYyH/Octo-Cover.png" alt="Octo-Cover" border="0"></a>
 
 ## What we aim to build:
 
