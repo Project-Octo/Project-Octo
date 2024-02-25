@@ -1,6 +1,6 @@
 # Project Octo
 
-![image](https://storage.cloud.google.com/octo-cover/OctoCover.png)
+![image](https://ibb.co/VSVR48k)
 
 ## What we aim to build:
 
